@@ -2,6 +2,9 @@
 
 ## A KDTree-Based Spatial Transcriptomics Pipeline with Machine Learning Validation
 
+## Live Dashboard
+🔗 [Launch the interactive dashboard](https://tcell-spatial-ovarian-cancer.streamlit.app/)
+
 **Author:** Ojo Gideon Mayowa  
 **Supervisors:** Professor Annalisa Occhipinti | Professor Claudio Angione  
 **Institution:** Teesside University, School of Computing, Engineering & Digital Technologies  
